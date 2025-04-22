@@ -1,3 +1,5 @@
+Credits to https://github.com/kriziu  :)
+
 # Collabio | Online whiteboard
 
 Real-time whiteboard made with Next.JS and Socket.IO
